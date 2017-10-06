@@ -20,11 +20,11 @@ Lingo script for solving an example of [Travelling Salesman Problem](https://en.
 3. The result can be found in `STSP.xlsx`.
 
 ## The Excel File
-This file cointans 5 tables: 2 for infos, 1 for input, 2 for output.
-* [infos] Larghezza di banda tra le città (Mb/s)
-*
-*
-*
-*
+This file cointans 5 tables: 2 for input, 2 for output, 1 for info.
+* [input] Larghezza di banda tra le città (Mb/s) = \"Band width between the cities (Mb/s)\"
+* [input] Tempo di trasmissione (ms) = \"Transmission Time(ms)\" (calcolated from the table above)
+* [output] 
+* [output] Ordine di visita delle città
+* [info] Distanza fra Città (km) = \"Distance between Cities(km)\"
 
 ## The Example
