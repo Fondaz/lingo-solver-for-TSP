@@ -8,7 +8,10 @@ Lingo script for solving an example of [Travelling Salesman Problem](https://en.
 
 
 ## 1. Contents of the Repository
-
+1. `STSP Generazione Dei Vincoli (Solution Report).lgr` Output of the script.
+2. `STSP Generazione Dei Vincoli (Solution Report).txt` Output of the script.
+3. `STSP Generazione Dei Vincoli.lg4` 	                The Lingo program.
+4. `STSP.xlsx`                                          The Excel file used for input and output.
 
 ## 2. How To Run It
 1. Download the repository.
