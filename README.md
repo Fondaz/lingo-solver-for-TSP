@@ -21,7 +21,7 @@ Lingo script for solving an example of [Travelling Salesman Problem](https://en.
 
 ## The Excel File
 This file cointans 5 tables: 2 for infos, 1 for input, 2 for output.
-* *(infos)* Larghezza di banda tra le città (Mb/s)
+* *[infos]* Larghezza di banda tra le città (Mb/s)
 *
 *
 *
