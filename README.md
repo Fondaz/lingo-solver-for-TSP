@@ -2,7 +2,7 @@
 Lingo script for solving an example of [Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem).
 
 ## Index
-1.Contents of the Repository
+1.[Contents of the Repository](https://github.com/Fondaz/lingo-solver-for-TSP/blob/master/README.md#how-to-run-it)
 
 
 ## Contents of the Repository
