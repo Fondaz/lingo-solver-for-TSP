@@ -21,10 +21,10 @@ Lingo script for solving an example of [Travelling Salesman Problem](https://en.
 
 ## The Excel File
 This file cointans 5 tables: 2 for input, 2 for output, 1 for info.
-* [input] *Larghezza di banda tra le città (Mb/s)* = \"Band width between the cities (Mb/s)\"
-* [input] *Tempo di trasmissione (ms)* = \"Transmission Time(ms)\" (calcolated from the table above)
-* [output] the routes between cities chosen by the algorithm
-* [output] *Ordine di visita delle città* = \"Visit order of the cities\"
-* [info] *Distanza fra Città (km)* = \"Distance between Cities(km)\"
+* [input] *\"Larghezza di banda tra le città (Mb/s)\"* = \"Band width between the cities (Mb/s)\"
+* [input] *\"Tempo di trasmissione (ms)\"* = \"Transmission Time(ms)\" (calcolated from the table above)
+* [output] *no name* the routes between cities chosen by the algorithm
+* [output] *\"Ordine di visita delle città\"* = \"Visit order of the cities\"
+* [info] *\"Distanza fra Città (km)\"* = \"Distance between Cities (km)\"
 
 ## The Example
