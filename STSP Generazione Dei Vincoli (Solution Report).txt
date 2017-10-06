@@ -1,0 +1,68 @@
+
+#1 Valore della funzione obiettivo: 1.813613577941095
+  Il ciclo inizia dal nodo:    1
+  Il prossimo nodo visitato è: 3
+  Il prossimo nodo visitato è: 4
+  Il prossimo nodo visitato è: 11
+  Il prossimo nodo visitato è: 2
+  Il prossimo nodo visitato è: 1
+ Viene aggiunto un vincolo per eliminare questo sottociclo.
+
+#2 Valore della funzione obiettivo: 1.874039795192531
+  Il ciclo inizia dal nodo:    1
+  Il prossimo nodo visitato è: 3
+  Il prossimo nodo visitato è: 1
+ Viene aggiunto un vincolo per eliminare questo sottociclo.
+
+#3 Valore della funzione obiettivo: 13.58272374743262
+  Il ciclo inizia dal nodo:    1
+  Il prossimo nodo visitato è: 2
+  Il prossimo nodo visitato è: 5
+  Il prossimo nodo visitato è: 9
+  Il prossimo nodo visitato è: 11
+  Il prossimo nodo visitato è: 4
+  Il prossimo nodo visitato è: 3
+  Il prossimo nodo visitato è: 1
+ Viene aggiunto un vincolo per eliminare questo sottociclo.
+
+#4 Valore della funzione obiettivo: 13.59313006969522
+  Il ciclo inizia dal nodo:    1
+  Il prossimo nodo visitato è: 3
+  Il prossimo nodo visitato è: 4
+  Il prossimo nodo visitato è: 8
+  Il prossimo nodo visitato è: 10
+  Il prossimo nodo visitato è: 5
+  Il prossimo nodo visitato è: 9
+  Il prossimo nodo visitato è: 11
+  Il prossimo nodo visitato è: 2
+  Il prossimo nodo visitato è: 1
+ Viene aggiunto un vincolo per eliminare questo sottociclo.
+
+#5 Valore della funzione obiettivo: 13.67968277015044
+  Il ciclo inizia dal nodo:    1
+  Il prossimo nodo visitato è: 3
+  Il prossimo nodo visitato è: 4
+  Il prossimo nodo visitato è: 10
+  Il prossimo nodo visitato è: 8
+  Il prossimo nodo visitato è: 7
+  Il prossimo nodo visitato è: 6
+  Il prossimo nodo visitato è: 11
+  Il prossimo nodo visitato è: 2
+  Il prossimo nodo visitato è: 1
+ Viene aggiunto un vincolo per eliminare questo sottociclo.
+
+#6 Valore della funzione obiettivo: 13.67968277015044
+  Il ciclo inizia dal nodo:    1
+  Il prossimo nodo visitato è: 3
+  Il prossimo nodo visitato è: 4
+  Il prossimo nodo visitato è: 10
+  Il prossimo nodo visitato è: 8
+  Il prossimo nodo visitato è: 7
+  Il prossimo nodo visitato è: 6
+  Il prossimo nodo visitato è: 5
+  Il prossimo nodo visitato è: 9
+  Il prossimo nodo visitato è: 11
+  Il prossimo nodo visitato è: 2
+  Il prossimo nodo visitato è: 1
+ Questo è il ciclo Hamiltoniano, algoritmo terminato.
+ Valore ottimo della funzione obiettivo: 13.67968277015044
