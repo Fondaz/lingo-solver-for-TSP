@@ -1,5 +1,6 @@
 # lingo-solver-for-TSP
-Lingo script for solving an example of [Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem).
+Lingo script for solving an example of [Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) using the Constraints Generation exact method.
+~~A Java implementation for this problem using NN and Christofides (heuristic techniques) is HERE.~~
 
 ## Index
 1. [Contents of the Repository](https://github.com/Fondaz/lingo-solver-for-TSP#contents-of-the-repository)
@@ -36,5 +37,5 @@ This file cointans 5 tables: 2 for input, 2 for output, 1 for info.
 
 ## The Example
 
-![WIP](https://spiegareIlProblemaDescrivendolo.png)
+![WorkInProgress](https://spiegareIlProblemaDescrivendolo.pnghttps://help.github.com/articles/basic-writing-and-formatting-syntax/#headings)
 [![Back To Top](https://user-images.githubusercontent.com/11947833/33139581-fed0ece6-cfad-11e7-8147-cf4f3b3cd34a.png)](https://github.com/Fondaz/lingo-solver-for-TSP#lingo-solver-for-tsp)
