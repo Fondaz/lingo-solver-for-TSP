@@ -14,9 +14,6 @@ Lingo script for solving an example of [Travelling Salesman Problem](https://en.
 3. `STSP Generazione Dei Vincoli.lg4` 	                - The Lingo program.
 4. `STSP.xlsx`                                          - The Excel file used for input and output.
 
-[
-![Back To Top](http://www.signuminstruments.com/assets/images/back-to-top.png)](https://github.com/Fondaz/lingo-solver-for-TSP#lingo-solver-for-tsp)
-
 ## How To Run It
 1. Download the repository.
 2. Run the lingo file `STSP Generazione Dei Vincoli.lg4`.
@@ -33,3 +30,4 @@ This file cointans 5 tables: 2 for input, 2 for output, 1 for info.
 
 
 ## The Example
+[![Back To Top](http://www.signuminstruments.com/assets/images/back-to-top.png)](https://github.com/Fondaz/lingo-solver-for-TSP#lingo-solver-for-tsp)
