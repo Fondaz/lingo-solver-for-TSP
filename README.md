@@ -15,7 +15,7 @@ Lingo script for solving an example of [Travelling Salesman Problem](https://en.
 4. `STSP.xlsx`                                          - The Excel file used for input and output.
 
 [Back to Top](https://github.com/Fondaz/lingo-solver-for-TSP#lingo-solver-for-tsp)
-![Image of Yaktocat](https://www.residenzalegiare.it/images/back.svg)
+![Image of Yaktocat](https://d2s3n99uw51hng.cloudfront.net/static/Back-To-Top-Icon-GREY.png)
 
 ## How To Run It
 1. Download the repository.
