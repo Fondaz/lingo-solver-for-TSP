@@ -1,5 +1,6 @@
 # lingo-solver-for-TSP
 Lingo script for solving an example of [Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) using the Constraints Generation exact method.
+
 ~~A Java implementation for this problem using NN and Christofides (heuristic techniques) is HERE.~~
 
 ## Index
