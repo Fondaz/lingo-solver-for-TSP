@@ -35,5 +35,6 @@ This file cointans 5 tables: 2 for input, 2 for output, 1 for info.
 
 
 ## The Example
-[!WIP](https://spiegareIlProblemaDescrivendolo.png)
+
+![WIP](https://spiegareIlProblemaDescrivendolo.png)
 [![Back To Top](https://user-images.githubusercontent.com/11947833/33139581-fed0ece6-cfad-11e7-8147-cf4f3b3cd34a.png)](https://github.com/Fondaz/lingo-solver-for-TSP#lingo-solver-for-tsp)
