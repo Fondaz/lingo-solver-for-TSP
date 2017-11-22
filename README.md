@@ -13,6 +13,8 @@ Lingo script for solving an example of [Travelling Salesman Problem](https://en.
 2. `STSP Generazione Dei Vincoli (Solution Report).txt` - Output of the script.
 3. `STSP Generazione Dei Vincoli.lg4` 	                - The Lingo program.
 4. `STSP.xlsx`                                          - The Excel file used for input and output.
+[Back to Top](https://github.com/Fondaz/lingo-solver-for-TSP)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## How To Run It
 1. Download the repository.
