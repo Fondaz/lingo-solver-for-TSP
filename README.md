@@ -34,6 +34,8 @@ This file cointans 6 tables: 2 for input, 3 for output, 1 for info.
 * [output] *\"Ordine di visita delle città\"* = \"Visit order of the cities\".
 * [info] *\"Distanza fra Città (km)\"* = \"Distance between Cities (km)\".
 
+La tabella "Band width between the cities" contiene la capacità massima della linea nel tratto che va dalla città nella riga a quella nella colonna. Questi dati vengono utilizzati per il calcolo del tempo di trasmissione da città a città (2° tabella). La formula utilizzata è MTU/("larghezza di banda"\*1000). MTU, cioè Maximum Transmission Unit, è la dimensione massima in byte di un pacchetto dati che può essere inviato attraverso un protocollo di comunicazione in una rete di telecomunicazioni.
+
 ![WorkInProgress](https://spiegareSignificatoTabelle)
 
 [![Back To Top](https://user-images.githubusercontent.com/11947833/33139581-fed0ece6-cfad-11e7-8147-cf4f3b3cd34a.png)](https://github.com/Fondaz/lingo-solver-for-TSP#lingo-solver-for-tsp)
