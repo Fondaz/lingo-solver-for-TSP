@@ -35,7 +35,11 @@ This file cointans 6 tables: 2 for input, 3 for output, 1 for info.
 * [info] *\"Distanza fra Città (km)\"* = \"Distance between Cities (km)\".
 
 La tabella \"Band width between the cities\" contiene la capacità massima della linea nel tratto che va dalla città nella riga a quella nella colonna. Questi dati vengono utilizzati per il calcolo del tempo di trasmissione da città a città (2° tabella). La formula utilizzata è MTU/(\"larghezza di banda\"\*1000). MTU, cioè Maximum Transmission Unit, è la dimensione massima in byte di un pacchetto dati che può essere inviato attraverso un protocollo di comunicazione in una rete di telecomunicazioni. Questa tabella verrà quindi utilizzata come input dal solver lingo per dare un peso a ciascun ramo del grafo.
+
 Una volta terminato il programma, la soluzione (il costo minimo per compiere un ciclo) verrà stampata nella cella \"Goal Function\". In output si troveranno anche una tabella binaria con gli 1 in corrispondenza del percorso scelto (riga->colonna) e una tabella con una sola riga (\"Visit order of the cities\"), con la lista delle città e un numero da 1 a 11 che indica l'ordine con cui quelle città sono state visitate.
+
+La tabella \"Distance between Cities (km)\" è stata utile per stimare la topografia della regione.
+
 
 ![WorkInProgress](https://spiegareSignificatoTabelle)
 
